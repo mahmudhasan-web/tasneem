@@ -1,0 +1,11 @@
+#social {
+    background: linear-gradient(90deg, #390566 1%, #B564F7 57.46%, #D37EF0 86.78%, #EF91FF 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#management{
+    background: linear-gradient(90deg, #2B034D 26.84%, #B564F7 57.46%, #D37EF0 86.78%, #EF91FF 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+}
